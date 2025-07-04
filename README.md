@@ -1,4 +1,4 @@
-<img src="banner2.png" alt="Banner" width="100%">
+<img src="banner3.png" alt="Banner" width="100%">
 
 
 # 👋 Hello! I'm Imelda Forteza
