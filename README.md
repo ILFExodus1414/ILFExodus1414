@@ -4,18 +4,16 @@
 
 
 # 👋 Hello! I'm Imelda Forteza
-
-**Ecologist | Microbial Genomics Explorer | Science Storyteller**  
+🌿 **Ecology. Microbes. Mangroves. Climate Solutions.Science Storyteller.** 
 Curious about the hidden lives of microbes,blue carbon,GHG — from forest floors to mangrove roots.
 
 ---
 
+
 🧬 **About Me**  
-I’m an ecologist with a passion for uncovering how microbial communities shape ecosystems — from velvet worm guts, shipworms, and forest spiders (huntsman and funnel webs) in decomposing logs, to mangrove sediments, oceans, and restored wetlands.
+I’m an environmental scientist and microbial ecologist working at the nexus of biodiversity, blue carbon, and ecosystem resilience. My research investigates how microbial communities influence carbon cycling, symbioses, and ecological function — spanning forest-floor invertebrates, mangrove sediments, marine environments, and restored wetlands.
 
-My work blends microbial genomics, ecological fieldwork, and cross-ecosystem carbon research. I’ve trained and mentored students, managed labs, and contributed to interdisciplinary projects in Australia and the Philippines.
-
-I recently submitted a manuscript to *Microbial Genomics* on the gut microbiota of velvet worms (*Euperipatoides rowelli*) across Australian deadwood microhabitats — stay tuned!
+My work supports climate-informed conservation and nature-based solutions by linking gut microbiomes, greenhouse gas (GHG) emissions, and ecosystem restoration. I’m passionate about bridging science, communication, and policy, and I’m actively seeking roles in international NGOs, UN programs, and mission-driven industries focused on biodiversity, climate mitigation, and sustainable development.
 
 ---
 
@@ -33,17 +31,13 @@ I recently submitted a manuscript to *Microbial Genomics* on the gut microbiota 
 - **Guardians of the Tide** — A storytelling + science project on mangrove microbiomes and blue carbon  
 - **Bdellovibrio & Phage Predation** — Exploring synergistic and competitive predation using single-cycle kinetics in wild-type Gram-negative hosts  
 - **Breathing Blue** — A developing initiative connecting microbial ecology, climate storytelling, and ecosystem healing in coastal communities  
-  🏅 *Co-awardee of the 2025 Creative Conservation Scholarship (Creature Conserve, USA)*  
-  Focused on public engagement and science-informed illustration for mangrove microbiomes and invertebrates
-
+ 
 ---
 
 🏅 **Awards & Fellowships**
-
-- **Creative Conservation Scholarship**, *Creature Conserve (USA)* — **2025**  
-  Co-awardee / Project contributor  
-  Funded project: *“Breathing Blue: Philippine Mangroves, Guardians of the Tide”*  
-  Focused on creating science-informed illustrations and public engagement materials exploring mangrove invertebrates and microbial ecology
+ - **Breathing Blue** — A flagship science-policy storytelling initiative on Philippine mangroves, microbiomes, and coastal climate resilience.  
+  🏅 *Co-awardee of the 2025 Creative Conservation Scholarship (Creature Conserve, USA)*  
+  Focused on producing science-informed public engagement materials and policy-relevant narratives that explore the role of microbial ecology in biodiversity protection, blue carbon systems, and nature-based climate solutions.
 
 ---
 
