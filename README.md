@@ -4,17 +4,14 @@
 
 
 # 👋 Hello! I'm Imelda Forteza
-🌿 **Ecology. Microbes. Mangroves. Climate Solutions.Science Storyteller.** 
-Curious about the hidden lives of microbes,blue carbon,GHG — from forest floors to mangrove roots.
+
+🌿 **Science That Connects: Microbes, Ecosystems, and Climate Solutions**
 
 ---
-
-
 🧬 **About Me**  
 I’m an environmental scientist and microbial ecologist working at the nexus of biodiversity, blue carbon, and ecosystem resilience. My research investigates how microbial communities influence carbon cycling, symbioses, and ecological function — spanning forest-floor invertebrates, mangrove sediments, marine environments, and restored wetlands.
 
-My work supports climate-informed conservation and nature-based solutions by linking gut microbiomes, greenhouse gas (GHG) emissions, and ecosystem restoration. I’m passionate about bridging science, communication, and policy, and I’m actively seeking roles in international NGOs, UN programs, and mission-driven industries focused on biodiversity, climate mitigation, and sustainable development.
-
+My work supports climate-informed conservation and nature-based solutions by linking gut microbiomes, greenhouse gas (GHG) emissions, and ecosystem restoration. I’m passionate about bridging science, communication, and policy, and I’m actively seeking **postdoctoral opportunities** as well as roles in international NGOs, UN programs, and mission-driven industries focused on conservation,biodiversity, climate mitigation, and sustainable development.
 ---
 
 🛠️ **Skills & Interests**  
