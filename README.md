@@ -9,9 +9,9 @@
 
 ---
 🧬 **About Me**  
-I’m an environmental scientist and microbial ecologist working at the nexus of biodiversity, blue carbon, and ecosystem resilience. My research investigates how microbial communities influence carbon cycling, symbioses, and ecological function — spanning forest-floor invertebrates, mangrove sediments, marine environments, and restored wetlands.
+I’m an environmental scientist and microbial ecologist working at the nexus of biodiversity, blue carbon, and ecosystem resilience. My research explores how microbial communities shape carbon cycling, symbioses, and ecological function — spanning forest-floor invertebrates, mangrove sediments, marine environments, and restored wetlands.
 
-My work supports climate-informed conservation and nature-based solutions by linking gut microbiomes, greenhouse gas (GHG) emissions, and ecosystem restoration. I’m passionate about bridging science, communication, and policy, and I’m actively seeking **postdoctoral opportunities** as well as roles in international NGOs, UN programs, and mission-driven industries focused on conservation,biodiversity, climate mitigation, and sustainable development.
+My work supports climate-informed conservation and nature-based solutions by linking gut microbiomes, greenhouse gas (GHG) emissions, and ecosystem restoration. I’m passionate about bridging science, communication, and policy, and I’m actively seeking **postdoctoral opportunities**, as well as roles with international NGOs, UN programs, and mission-driven industries focused on conservation, biodiversity, climate mitigation, and sustainable development.
 ---
 
 🛠️ **Skills & Interests**  
@@ -19,7 +19,7 @@ My work supports climate-informed conservation and nature-based solutions by lin
 - Metagenomics & Bioinformatics | Oxford Nanopore, Illumina  
 - Ecosystem Ecology | Forest floors, wetlands, mangroves, and the San Pedro Ocean Time Series  
 - Science Communication & Storytelling | GitHub Pages, R Markdown  
-- Research Training & Capacity Building | Mentoring, lab management, education  
+- Research Training & Capacity Building | Mentoring, Lab management, Teaching  
 
 ---
 
