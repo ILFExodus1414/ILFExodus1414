@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner2.png" alt="Ecological Banner" width="100%">
-</p>
+<img src="banner2.png" alt="Banner" width="100%">
 
 
 # 👋 Hello! I'm Imelda Forteza
