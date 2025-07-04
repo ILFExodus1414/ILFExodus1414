@@ -8,10 +8,12 @@
 🌿 **Science That Connects: Microbes, Ecosystems, and Climate Solutions**
 
 ---
+
 🧬 **About Me**  
 I’m an environmental scientist and microbial ecologist working at the nexus of biodiversity, blue carbon, and ecosystem resilience. My research explores how microbial communities shape carbon cycling, symbioses, and ecological function — spanning forest-floor invertebrates, mangrove sediments, marine environments, and restored wetlands.
 
 My work supports climate-informed conservation and nature-based solutions by linking gut microbiomes, greenhouse gas (GHG) emissions, and ecosystem restoration. I’m passionate about bridging science, communication, and policy, and I’m actively seeking **postdoctoral opportunities**, as well as roles with international NGOs, UN programs, and mission-driven industries focused on conservation, biodiversity, climate mitigation, and sustainable development.
+
 ---
 
 🛠️ **Skills & Interests**  
