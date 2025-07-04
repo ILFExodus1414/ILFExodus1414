@@ -7,9 +7,9 @@ Curious about the hidden lives of microbes — from forest floors to mangrove ro
 ---
 
 🧬 **About Me**  
-I’m an ecologist with a passion for uncovering how microbial communities shape ecosystems — from velvet worm guts, shipworms, and forest spiders (huntsman and funnel webs) in decomposing logs, to mangrove sediments, oceans, and restored wetlands.
+I’m an ecologist with a passion for uncovering how microbial communities shape ecosystems — from velvet worm guts, shipworms, and forest floor spiders (huntsman and funnel web spider) in decomposing deadwood, to mangrove sediments, oceans, and restored wetlands.
 
-My work blends microbial genomics, ecological fieldwork, and cross-ecosystem carbon research. I’ve trained and mentored students, managed labs, and contributed to interdisciplinary projects in Australia and the Philippines.
+My work blends microbial genomics, ecological fieldwork, and cross-ecosystem carbon research. I’ve trained and mentored students, managed labs, and contributed to interdisciplinary projects in United States, Australia and the Philippines.
 
 I currently writing a manuscript  on the gut microbiota of velvet worms (*Euperipatoides rowelli*) across Australian deadwood microhabitats and bdellovibrios and phages— stay tuned!
 
