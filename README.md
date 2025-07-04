@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_illustration_banner_displays_ecological_.png" alt="Ecological Banner" width="100%">
+  <img src="banner.png" alt="Ecological Banner" width="100%">
 </p>
 
 # 👋 Hello! I'm Imelda Forteza
