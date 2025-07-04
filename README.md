@@ -35,6 +35,46 @@ I am currenly working on a manuscript on the gut microbiota of velvet worms (*Eu
 
 ---
 
+🏅 **Awards & Fellowships**
+
+- **Creative Conservation Scholarship**, *Creature Conserve (USA)* — **2025**  
+  Co-awardee / Project contributor  
+  Funded project: *“Breathing Blue: Philippine Mangroves, Guardians of the Tide”*  
+  Focused on creating science-informed illustrations and public engagement materials exploring mangrove invertebrates and microbial ecology
+
+---
+
+
+📚 **Publications & Profiles**
+
+- [Google Scholar Profile](https://scholar.google.com/citations?user=70oUe5AAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0001-1366-0011)
+
+**Selected Publications:**
+
+- 🧬 *SARS-CoV-2 Replication Revisited: Molecular Insights and Current and Emerging Antiviral Strategies.*  
+  Bryan John Jereza Subong, Imelda Lucagbo Forteza. **COVID (MDPI), 2025**  
+  [https://doi.org/10.3390/covid5060085](https://doi.org/10.3390/covid5060085)
+
+- 🧪 *Synergistic Anti-MRSA Activity and Absolute Stereochemistry of 7,8-Dideoxygriseorhodin C*  
+  Miller, B. W., Torres, J. P., Tun, J. O., Flores, M. S., Forteza, I. L., et al. **Journal of Antibiotics (2020)**  
+  [https://doi.org/10.1038/s41429-019-0275-8](https://doi.org/10.1038/s41429-019-0275-8)
+
+- 🌊 *Discovery of Chemoautotrophic Symbiosis in the Giant Shipworm Kuphus polythalamia*  
+  Distel, D., Altamia, M., Lin, Z., Shipway, J. R., Forteza, I., et al. **PNAS (2017)**  
+  [https://doi.org/10.1073/pnas.1620470114](https://doi.org/10.1073/pnas.1620470114)
+
+- 🧠 *Neuroactive Diol and Acyloin Metabolites from Cone Snail-Associated Bacteria*  
+  Lin, Z., Marett, L., Hughen, R. W., Forteza, I., et al. **Bioorganic & Medicinal Chemistry Letters (2013)**  
+  [https://doi.org/10.1016/j.bmcl.2013.06.088](https://doi.org/10.1016/j.bmcl.2013.06.088)
+
+- 🌀 *Totopotensamides: Polyketide-Cyclic Peptide Hybrids from a Mollusk-Associated Streptomyces*  
+  Lin, Z., Flores, M. S., Forteza, I., et al. **Journal of Natural Products (2012)**  
+  [https://doi.org/10.1021/np200886x](https://doi.org/10.1021/np200886x)
+
+---
+
+
 🤝 **Let’s Connect**  
 I’m open to collaborations, consulting, or new roles in conservation,environmental sciences,ecology,microbial genomics,bioinformatics, science communication, or research training.
 
